@@ -12,9 +12,11 @@ General Insurance policies are renewed annually.The insurance company usually al
 
 # FUTURE ENHANCEMENT
 We can track the client who are pending with premium without renewing the policies.
+
 Predictive analysis can be made for future cases.
 
 # ADVANTAGES
 Working with big data.
-Fast transmit in Data
+
+Fast transmit in Data.
 
