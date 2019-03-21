@@ -8,11 +8,11 @@
 
 # TASK SPLITUP 
 
-Module 1:Collection of datasets.(Done by Shanmuga Dhivya,Vineetha,Yuvaraj)
+Module 1:Collection of datasets.(Done by Vineetha,Yuvaraj)
 
 Module 2:Data extraction & cleaning.(Done by Shanmuga Dhivya)
 
-Module 3:Data Manipulation and predictions of K-Means/ linear regression,decision tree.(Done by vineetha,Yuvaraj)
+Module 3:Data Manipulation and predictions of K-Means/ linear regression,decision tree.(Done by Yuvaraj,shanmuga Dhivya,Vineetha)
 
 Module 4:Generating the report by using Tableau.(Done by vineetha)
 
