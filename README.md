@@ -8,7 +8,7 @@
 
 # TASK SPLITUP 
 
-Module 1:Collection of datasets.(Done by Vineetha,Yuvaraj)
+Module 1:Collection of datasets.(Done by Vineetha)
 
 Module 2:Data extraction & cleaning.(Done by Shanmuga Dhivya)
 
